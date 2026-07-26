@@ -1,6 +1,6 @@
 Bottom Line Finance
-construction loans costs - Construction Loans Costs: A guide to how construction loans are priced, from interest capitalisation to progress payments. Compare options, costs, timing and.
+construction loans comparison - Construction Loans Comparison: Compare senior construction debt versus full development stacks for Australian projects. Compare options, costs, timing and practical.
 
 Location: Australia
-Site: https://s3.ap-southeast-2.amazonaws.com/bottomlinefinance-112/construction-loans-costs.html
+Site: https://sitesau.github.io/construction-loans-comparison/
 

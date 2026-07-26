@@ -2,15 +2,15 @@
   "wheel_id": 135,
   "structure": "umbrella",
   "slug": "bottomlinefinance-112",
-  "project": "construction-loans-costs-b-112",
+  "project": "construction-loans-comparison-b-112",
   "parent_t1_ref": "bottomlinefinance-002",
   "node_role": "feeder",
   "money_target": "bottomlinefinance.com.au",
-  "primary_kw": "construction loans costs",
-  "intended_url": "http://construction-loans-costs-b-112.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "primary_kw": "construction loans comparison",
+  "intended_url": "https://sitesau.github.io/bottomlinefinance-112/",
   "links": [
     {
-      "target_url": "https://construction-loans-b-154.pages.dev/",
+      "target_url": "https://construction-loans-b-155.pages.dev/",
       "anchor": "construction loans",
       "rel": "follow"
     }
