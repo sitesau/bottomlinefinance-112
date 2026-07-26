@@ -1,0 +1,18 @@
+{
+  "wheel_id": 135,
+  "structure": "umbrella",
+  "slug": "bottomlinefinance-112",
+  "project": "construction-loans-costs-b-112",
+  "parent_t1_ref": "bottomlinefinance-002",
+  "node_role": "feeder",
+  "money_target": "bottomlinefinance.com.au",
+  "primary_kw": "construction loans costs",
+  "intended_url": "http://construction-loans-costs-b-112.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "links": [
+    {
+      "target_url": "https://construction-loans-b-154.pages.dev/",
+      "anchor": "construction loans",
+      "rel": "follow"
+    }
+  ]
+}
